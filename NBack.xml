@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Must be a top level tag to include all tags to include -->
+<ParameterDescriptionFile>
+
+    <Color>
+        <name>White</name>
+        <valueR>255</valueR>
+        <valueG>255</valueG>
+        <valueB>255</valueB>
+    </Color>
+
+    <Position>
+        <name>Mid</name>
+        <horizontal>center</horizontal>
+        <vertical>center</vertical>
+    </Position>
+
+    <Versions>
+        <Version>Run1</Version>
+        <Version>Run2</Version>
+    </Versions>
+
+    <Settings>
+        <Name>NBack</Name>
+        <Description>Experimental NBack task</Description>
+        <Slices>39</Slices>
+        <TimeToRepeat>2000</TimeToRepeat>
+        <InterPulseInterval>2000</InterPulseInterval>
+        <Volumes>600</Volumes>
+    </Settings>
+
+    <Defaults>
+        <BackGroundColor>White</BackGroundColor>
+        <FontSize>72</FontSize>
+    </Defaults>
+
+    <Include>./Slides.xml</Include>
+    <Include>./Trials.xml</Include>
+
+
+    <Include Version="Run1">./Session1.xml</Include>
+    <Include Version="Run2">./Session2.xml</Include>
+
+</ParameterDescriptionFile>
+
+
