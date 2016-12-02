@@ -63,7 +63,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -75,7 +75,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -87,7 +87,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -99,7 +99,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -111,7 +111,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -123,7 +123,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -135,7 +135,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -147,7 +147,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -159,7 +159,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -171,7 +171,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -183,7 +183,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -195,7 +195,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -207,7 +207,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -219,7 +219,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -231,7 +231,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
     <Slide>
@@ -243,7 +243,7 @@
         <expectedResponse>
             <key>C</key>
             <count>1</count>
-        </epxectedResponse>
+        </expectedResponse>
     </Slide>
 
 </IncludeSlides>

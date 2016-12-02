@@ -11,7 +11,7 @@ do
     echo "        <expectedResponse>"
     echo "            <key>C</key>"
     echo "            <count>1</count>"
-    echo "        </epxectedResponse>"
+    echo "        </expectedResponse>"
     echo "    </Slide>"
     echo
 done
