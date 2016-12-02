@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Must be a top level tag to include all tags to include -->
+<IncludeSlides>
+
+    <Slide>
+        <name>Instructions1</name>
+        <Picture>./Images/Instructions1.bmp</Picture>
+        <duration>10000</duration>
+    </Slide>
+
+    <Slide>
+        <name>Instructions2</name>
+        <Picture>./Images/Instructions2.bmp</Picture>
+        <duration>10000</duration>
+    </Slide>
+
+    <Slide>
+        <name>Instructions0Back</name>
+        <Picture>./Images/Instructions0Back.bmp</Picture>
+        <duration>5000</duration>
+    </Slide>
+
+    <Slide>
+        <name>Instructions2Back</name>
+        <Picture>./Images/Instructions2Back.bmp</Picture>
+        <duration>5000</duration>
+    </Slide>
+
+    <Slide>
+        <name>PreStimCrosshair</name>
+        <text>+</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>1000</duration>
+    </Slide>
+
+    <Slide>
+        <name>ResponseCrosshair</name>
+        <text>+</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>2500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </expectedResponse>
+    <Slide>
+
+    <Slide>
+        <name>GetReady</name>
+        <text>Get Ready!!</text>
+        <font>Arial</font>
+        <fontsize>24</fontsize>
+        <duration>1000</duration>
+    </Slide>
+
+    <Slide>
+        <name>Letter_G</name>
+        <text>G</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_K</name>
+        <text>K</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_F</name>
+        <text>F</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_C</name>
+        <text>C</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_B</name>
+        <text>B</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_M</name>
+        <text>M</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_Q</name>
+        <text>Q</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_X</name>
+        <text>X</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_V</name>
+        <text>V</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_R</name>
+        <text>R</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_S</name>
+        <text>S</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_T</name>
+        <text>T</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_H</name>
+        <text>H</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_J</name>
+        <text>J</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_Z</name>
+        <text>Z</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+    <Slide>
+        <name>Letter_D</name>
+        <text>D</text>
+        <font>Arial</font>
+        <fontsize>72</fontsize>
+        <duration>500</duration>
+        <expectedResponse>
+            <key>C</key>
+            <count>1</count>
+        </epxectedResponse>
+    </Slide>
+
+</IncludeSlides>
