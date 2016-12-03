@@ -45,11 +45,11 @@ echo "        </show>"
 echo "    </Trial>"
 echo
 
-# create OneBack and TwoBack instruction trials
+# create ZeroBack and TwoBack instruction trials
 echo "    <Trial>"
-echo "        <name>InstructionsOneBackTrial</name>"
+echo "        <name>InstructionsZeroBackTrial</name>"
 echo "        <show>"
-echo "            <item>InstructionsOneBack</item>"
+echo "            <item>InstructionsZeroBack</item>"
 echo "        </show>"
 echo "    </Trial>"
 echo

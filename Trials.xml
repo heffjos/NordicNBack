@@ -37,9 +37,9 @@
     </Trial>
 
     <Trial>
-        <name>InstructionsOneBackTrial</name>
+        <name>InstructionsZeroBackTrial</name>
         <show>
-            <item>InstructionsOneBack</item>
+            <item>InstructionsZeroBack</item>
         </show>
     </Trial>
 
