@@ -9,6 +9,13 @@
         <valueB>255</valueB>
     </Color>
 
+    <Color>
+        <name>Black</name>
+        <valueR>0</valueR>
+        <valueG>0</valueG>
+        <valueB>0</valueB>
+    </Color>
+
     <Position>
         <name>Mid</name>
         <horizontal>center</horizontal>
@@ -22,21 +29,22 @@
 
     <Settings>
         <Name>NBack</Name>
-        <Description>Experimental NBack task</Description>
+        <Description>NBack task</Description>
         <Slices>39</Slices>
         <TimeToRepeat>2000</TimeToRepeat>
         <InterPulseInterval>2000</InterPulseInterval>
-        <Volumes>600</Volumes>
+        <!-- TotalDuration: 10 + 10 + ((1+0.5+2.5)*13+7+5)*8 = 532 seconds-->
+        <Volumes>266</Volumes>
     </Settings>
 
     <Defaults>
-        <BackGroundColor>White</BackGroundColor>
+        <BackGroundColor>Black</BackGroundColor>
         <FontSize>72</FontSize>
+        <FontColor>White</FontColor>
     </Defaults>
 
     <Include>./Slides.xml</Include>
     <Include>./Trials.xml</Include>
-
 
     <Include Version="Run1">./Session1.xml</Include>
     <Include Version="Run2">./Session2.xml</Include>
