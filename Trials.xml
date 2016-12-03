@@ -15,6 +15,14 @@
     </Trial>
 
     <Trial>
+        <name>Disdaq</name>
+        <show>
+            <item>PreStimCrosshair</item>
+            <duration>7000</duration>
+        </show>
+    </Trial>
+
+    <Trial>
         <name>ZeroBack_G</name>
         <condition>0</condition>
         <show>
