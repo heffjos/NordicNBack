@@ -6,7 +6,7 @@
         <runtrial>Disdaq</runtrial>
         <runtrial>Instructions1Trial</runtrial>
         <runtrial>Instructions2Trial</runtrial>
-        <runtrial>InstructionsZeroBack</runtrial>
+        <runtrial>InstructionsZeroBackTrial</runtrial>
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>ZeroBack_R</runtrial>
         <runtrial>ZeroBack_G</runtrial>
@@ -21,7 +21,7 @@
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>ZeroBack_Q</runtrial>
         <runtrial>Rest</runtrial>
-        <runtrial>InstructionsTwoBack</runtrial>
+        <runtrial>InstructionsTwoBackTrial</runtrial>
         <runtrial>TwoBack_G</runtrial>
         <runtrial>TwoBack_H</runtrial>
         <runtrial>TwoBack_G</runtrial>
@@ -36,7 +36,7 @@
         <runtrial>TwoBack_M</runtrial>
         <runtrial>TwoBack_Z</runtrial>
         <runtrial>Rest</runtrial>
-        <runtrial>InstructionsZeroBack</runtrial>
+        <runtrial>InstructionsZeroBackTrial</runtrial>
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>ZeroBack_S</runtrial>
         <runtrial>ZeroBack_C</runtrial>
@@ -51,7 +51,7 @@
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>ZeroBack_F</runtrial>
         <runtrial>Rest</runtrial>
-        <runtrial>InstructionsTwoBack</runtrial>
+        <runtrial>InstructionsTwoBackTrial</runtrial>
         <runtrial>TwoBack_K</runtrial>
         <runtrial>TwoBack_X</runtrial>
         <runtrial>TwoBack_J</runtrial>
@@ -66,7 +66,7 @@
         <runtrial>TwoBack_C</runtrial>
         <runtrial>TwoBack_Q</runtrial>
         <runtrial>Rest</runtrial>
-        <runtrial>InstructionsTwoBack</runtrial>
+        <runtrial>InstructionsTwoBackTrial</runtrial>
         <runtrial>TwoBack_Q</runtrial>
         <runtrial>TwoBack_C</runtrial>
         <runtrial>TwoBack_X</runtrial>
@@ -81,7 +81,7 @@
         <runtrial>TwoBack_H</runtrial>
         <runtrial>TwoBack_F</runtrial>
         <runtrial>Rest</runtrial>
-        <runtrial>InstructionsZeroBack</runtrial>
+        <runtrial>InstructionsZeroBackTrial</runtrial>
         <runtrial>ZeroBack_Z</runtrial>
         <runtrial>ZeroBack_T</runtrial>
         <runtrial>ZeroBack_R</runtrial>
@@ -96,7 +96,7 @@
         <runtrial>ZeroBack_M</runtrial>
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>Rest</runtrial>
-        <runtrial>InstructionsTwoBack</runtrial>
+        <runtrial>InstructionsTwoBackTrial</runtrial>
         <runtrial>TwoBack_F</runtrial>
         <runtrial>TwoBack_X</runtrial>
         <runtrial>TwoBack_F</runtrial>
@@ -111,7 +111,7 @@
         <runtrial>TwoBack_R</runtrial>
         <runtrial>TwoBack_C</runtrial>
         <runtrial>Rest</runtrial>
-        <runtrial>InstructionsZeroBack</runtrial>
+        <runtrial>InstructionsZeroBackTrial</runtrial>
         <runtrial>ZeroBack_H</runtrial>
         <runtrial>ZeroBack_T</runtrial>
         <runtrial>ZeroBack_H</runtrial>

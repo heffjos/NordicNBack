@@ -24,7 +24,7 @@ do
     then
         if [[ ${TrialType} != ${PreviousType} ]]
         then
-            echo "        <runtrial>Instructions${TrialType}</runtrial>"
+            echo "        <runtrial>Instructions${TrialType}Trial</runtrial>"
             PreviousType=${TrialType}
         fi
 
