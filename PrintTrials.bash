@@ -40,7 +40,7 @@ echo "    <Trial>"
 echo "        <name>Disdaq</name>"
 echo "        <show>"
 echo "            <item>PreStimCrosshair</item>"
-echo "            <duration>7000</duration>"
+echo "            <duration>5000</duration>"
 echo "        </show>"
 echo "    </Trial>"
 echo
@@ -69,9 +69,9 @@ do
         # assign condition number here
         if [[ ${trialType} == ZeroBack ]]
         then
-            Condition=0
-        else
             Condition=1
+        else
+            Condition=2
         fi
 
         #print everything out here
