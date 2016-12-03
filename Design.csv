@@ -110,7 +110,6 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,Duration
 1,zeroback4,ZeroBack,8,X,109,0,4
 1,zeroback4,ZeroBack,8,C,110,1,4
 1,zeroback4,ZeroBack,8,C,111,1,4
-1,rest,Rest,NA,NA,112,NA,8
 2,zeroback5,ZeroBack,1,C,113,1,4
 2,zeroback5,ZeroBack,1,R,114,0,4
 2,zeroback5,ZeroBack,1,G,115,0,4

@@ -33,7 +33,7 @@
         <Slices>39</Slices>
         <TimeToRepeat>2000</TimeToRepeat>
         <InterPulseInterval>2000</InterPulseInterval>
-        <!-- TotalDuration: 10+10+((1+0.5+2.5)*13+7+1+5)*8 = 540 seconds-->
+        <!-- TotalDuration: 10+10+((1+0.5+2.5)*13+7+1+5)*8-(7+1) = 532 seconds-->
         <Volumes>270</Volumes>
     </Settings>
 
