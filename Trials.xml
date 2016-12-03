@@ -37,6 +37,20 @@
     </Trial>
 
     <Trial>
+        <name>InstructionsOneBackTrial</name>
+        <show>
+            <item>InstructionsOneBack</item>
+        </show>
+    </Trial>
+
+    <Trial>
+        <name>InstructionsTwoBackTrial</name>
+        <show>
+            <item>InstructionsTwoBack</item>
+        </show>
+    </Trial>
+
+    <Trial>
         <name>ZeroBack_G</name>
         <condition>0</condition>
         <show>

@@ -45,6 +45,23 @@ echo "        </show>"
 echo "    </Trial>"
 echo
 
+# create OneBack and TwoBack instruction trials
+echo "    <Trial>"
+echo "        <name>InstructionsOneBackTrial</name>"
+echo "        <show>"
+echo "            <item>InstructionsOneBack</item>"
+echo "        </show>"
+echo "    </Trial>"
+echo
+echo "    <Trial>"
+echo "        <name>InstructionsTwoBackTrial</name>"
+echo "        <show>"
+echo "            <item>InstructionsTwoBack</item>"
+echo "        </show>"
+echo "    </Trial>"
+echo
+
+
 for oneLetter in G K F C B M Q X V R S T H J Z D
 do
     for trialType in ZeroBack TwoBack
