@@ -15,13 +15,13 @@
     </Slide>
 
     <Slide>
-        <name>Instructions0Back</name>
+        <name>InstructionsZeroBack</name>
         <Picture>./Images/Instructions0Back.bmp</Picture>
         <duration>5000</duration>
     </Slide>
 
     <Slide>
-        <name>Instructions2Back</name>
+        <name>InstructionsTwoBack</name>
         <Picture>./Images/Instructions2Back.bmp</Picture>
         <duration>5000</duration>
     </Slide>
