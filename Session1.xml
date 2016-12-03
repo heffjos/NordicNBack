@@ -3,6 +3,10 @@
 <IncludeSessions>
     <Session>
         <name>NBack</name>
+        <runtrial>Disdaq</runtrial>
+        <runtrial>Instructions1</runtrial>
+        <runtrial>Instructions2</runtrial>
+        <runtrial>InstructionsZeroBack</runtrial>
         <runtrial>ZeroBack_G</runtrial>
         <runtrial>ZeroBack_K</runtrial>
         <runtrial>ZeroBack_F</runtrial>
@@ -17,6 +21,7 @@
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>ZeroBack_V</runtrial>
         <runtrial>Rest</runtrial>
+        <runtrial>InstructionsTwoBack</runtrial>
         <runtrial>TwoBack_R</runtrial>
         <runtrial>TwoBack_F</runtrial>
         <runtrial>TwoBack_S</runtrial>
@@ -31,6 +36,7 @@
         <runtrial>TwoBack_K</runtrial>
         <runtrial>TwoBack_H</runtrial>
         <runtrial>Rest</runtrial>
+        <runtrial>InstructionsZeroBack</runtrial>
         <runtrial>ZeroBack_J</runtrial>
         <runtrial>ZeroBack_V</runtrial>
         <runtrial>ZeroBack_X</runtrial>
@@ -45,6 +51,7 @@
         <runtrial>ZeroBack_R</runtrial>
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>Rest</runtrial>
+        <runtrial>InstructionsTwoBack</runtrial>
         <runtrial>TwoBack_V</runtrial>
         <runtrial>TwoBack_J</runtrial>
         <runtrial>TwoBack_V</runtrial>
@@ -59,6 +66,7 @@
         <runtrial>TwoBack_M</runtrial>
         <runtrial>TwoBack_C</runtrial>
         <runtrial>Rest</runtrial>
+        <runtrial>InstructionsTwoBack</runtrial>
         <runtrial>TwoBack_M</runtrial>
         <runtrial>TwoBack_V</runtrial>
         <runtrial>TwoBack_M</runtrial>
@@ -73,6 +81,7 @@
         <runtrial>TwoBack_B</runtrial>
         <runtrial>TwoBack_B</runtrial>
         <runtrial>Rest</runtrial>
+        <runtrial>InstructionsZeroBack</runtrial>
         <runtrial>ZeroBack_R</runtrial>
         <runtrial>ZeroBack_T</runtrial>
         <runtrial>ZeroBack_K</runtrial>
@@ -87,6 +96,7 @@
         <runtrial>ZeroBack_V</runtrial>
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>Rest</runtrial>
+        <runtrial>InstructionsTwoBack</runtrial>
         <runtrial>TwoBack_G</runtrial>
         <runtrial>TwoBack_J</runtrial>
         <runtrial>TwoBack_S</runtrial>
@@ -101,6 +111,7 @@
         <runtrial>TwoBack_D</runtrial>
         <runtrial>TwoBack_T</runtrial>
         <runtrial>Rest</runtrial>
+        <runtrial>InstructionsZeroBack</runtrial>
         <runtrial>ZeroBack_D</runtrial>
         <runtrial>ZeroBack_F</runtrial>
         <runtrial>ZeroBack_C</runtrial>

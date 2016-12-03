@@ -9,6 +9,12 @@ echo "<IncludeSessions>"
 echo "    <Session>"
 echo "        <name>NBack</name>"
 
+# start with intro slides
+echo "        <runtrial>Disdaq</runtrial>"
+echo "        <runtrial>Instructions1</runtrial>"
+echo "        <runtrial>Instructions2</runtrial>"
+
+PreviousType=""
 for Line in `grep -E ^${Run} ${DesignFile}`
 do
     TrialType=`echo ${Line} | awk -F, '{print $3}'`
@@ -16,9 +22,16 @@ do
 
     if [[ ${TrialType} != Rest ]]
     then
+        if [[ ${TrialType} != ${PreviousType} ]]
+        then
+            echo "        <runtrial>Instructions${TrialType}</runtrial>"
+            PreviousType=${TrialType}
+        fi
+
         echo "        <runtrial>${TrialType}_${Letter}</runtrial>"
     else
         echo "        <runtrial>Rest</runtrial>"
+        PreviousType=Rest
     fi
 done
 
