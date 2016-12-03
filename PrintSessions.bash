@@ -11,8 +11,8 @@ echo "        <name>NBack</name>"
 
 # start with intro slides
 echo "        <runtrial>Disdaq</runtrial>"
-echo "        <runtrial>Instructions1</runtrial>"
-echo "        <runtrial>Instructions2</runtrial>"
+echo "        <runtrial>Instructions1Trial</runtrial>"
+echo "        <runtrial>Instructions2Trial</runtrial>"
 
 PreviousType=""
 for Line in `grep -E ^${Run} ${DesignFile}`

@@ -4,8 +4,8 @@
     <Session>
         <name>NBack</name>
         <runtrial>Disdaq</runtrial>
-        <runtrial>Instructions1</runtrial>
-        <runtrial>Instructions2</runtrial>
+        <runtrial>Instructions1Trial</runtrial>
+        <runtrial>Instructions2Trial</runtrial>
         <runtrial>InstructionsZeroBack</runtrial>
         <runtrial>ZeroBack_C</runtrial>
         <runtrial>ZeroBack_R</runtrial>
