@@ -3,6 +3,20 @@
 <IncludeTrials>
 
     <Trial>
+        <name>Instructions1Trial</name>
+        <show>
+            <item>Instructions1</item>
+        </show>
+    </Trial>
+
+    <Trial>
+        <name>Instructions2Trial</name>
+        <show>
+            <item>Instructions2</item>
+        </show>
+    </Trial>
+
+    <Trial>
         <name>Rest</name>
         <condition>3</condition>
         <show>

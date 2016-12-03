@@ -5,6 +5,22 @@ echo "<!-- Must be a top level tag to include all tags to include -->"
 echo "<IncludeTrials>"
 echo
 
+# create instruction trials; this is for display in sessions
+echo "    <Trial>"
+echo "        <name>Instructions1Trial</name>"
+echo "        <show>"
+echo "            <item>Instructions1</item>"
+echo "        </show>"
+echo "    </Trial>"
+echo
+echo "    <Trial>"
+echo "        <name>Instructions2Trial</name>"
+echo "        <show>"
+echo "            <item>Instructions2</item>"
+echo "        </show>"
+echo "    </Trial>"
+echo
+
 # create Rest trial
 echo "    <Trial>"
 echo "        <name>Rest</name>"
@@ -14,7 +30,17 @@ echo "            <item>PreStimCrosshair</item>"
 echo "            <duration>7000</duration>"
 echo "        </show>"
 echo "        <show>"
-echo "            <item>GetReady</show>"
+echo "            <item>GetReady</item>"
+echo "        </show>"
+echo "    </Trial>"
+echo
+
+# creat disdaq trial
+echo "    <Trial>"
+echo "        <name>Disdaq</name>"
+echo "        <show>"
+echo "            <item>PreStimCrosshair</item>"
+echo "            <duration>7000</duration>"
 echo "        </show>"
 echo "    </Trial>"
 echo
