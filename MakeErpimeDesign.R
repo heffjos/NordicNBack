@@ -21,7 +21,7 @@ AddIntro <- function(df) {
 }
   
 data <- data %>%
-  group_by(Block) %>%
+  group_by(Run, Block) %>%
   do(AddIntro(.)) %>%
   ungroup()
 
