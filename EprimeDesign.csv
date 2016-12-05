@@ -13,7 +13,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 1,TrialProc,ZeroBack,1,X,11,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,1,C,12,6,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,1,V,13,,Images/Instructions0Back.bmp
-1,Rest,ZeroBack,1,NA,NA,NA,Images/Instructions0Back.bmp
+1,Rest,ZeroBack,1,NA,NA,,Images/Instructions0Back.bmp
 1,Introduction,TwoBack,2,NA,NA,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,2,R,14,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,2,F,15,,Images/Instructions2Back.bmp
@@ -28,7 +28,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 1,TrialProc,TwoBack,2,Q,24,6,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,2,K,25,6,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,2,H,26,,Images/Instructions2Back.bmp
-1,Rest,TwoBack,2,NA,NA,NA,Images/Instructions2Back.bmp
+1,Rest,TwoBack,2,NA,NA,,Images/Instructions2Back.bmp
 1,Introduction,ZeroBack,3,NA,NA,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,3,J,27,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,3,V,28,,Images/Instructions0Back.bmp
@@ -43,7 +43,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 1,TrialProc,ZeroBack,3,Q,37,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,3,R,38,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,3,C,39,6,Images/Instructions0Back.bmp
-1,Rest,ZeroBack,3,NA,NA,NA,Images/Instructions0Back.bmp
+1,Rest,ZeroBack,3,NA,NA,,Images/Instructions0Back.bmp
 1,Introduction,TwoBack,4,NA,NA,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,4,V,40,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,4,J,41,,Images/Instructions2Back.bmp
@@ -58,7 +58,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 1,TrialProc,TwoBack,4,S,50,6,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,4,M,51,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,4,C,52,,Images/Instructions2Back.bmp
-1,Rest,TwoBack,4,NA,NA,NA,Images/Instructions2Back.bmp
+1,Rest,TwoBack,4,NA,NA,,Images/Instructions2Back.bmp
 1,Introduction,TwoBack,5,NA,NA,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,5,M,53,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,5,V,54,,Images/Instructions2Back.bmp
@@ -73,7 +73,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 1,TrialProc,TwoBack,5,S,63,6,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,5,B,64,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,5,B,65,,Images/Instructions2Back.bmp
-1,Rest,TwoBack,5,NA,NA,NA,Images/Instructions2Back.bmp
+1,Rest,TwoBack,5,NA,NA,,Images/Instructions2Back.bmp
 1,Introduction,ZeroBack,6,NA,NA,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,6,R,66,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,6,T,67,,Images/Instructions0Back.bmp
@@ -88,7 +88,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 1,TrialProc,ZeroBack,6,C,76,6,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,6,V,77,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,6,C,78,6,Images/Instructions0Back.bmp
-1,Rest,ZeroBack,6,NA,NA,NA,Images/Instructions0Back.bmp
+1,Rest,ZeroBack,6,NA,NA,,Images/Instructions0Back.bmp
 1,Introduction,TwoBack,7,NA,NA,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,7,G,79,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,7,J,80,,Images/Instructions2Back.bmp
@@ -103,7 +103,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 1,TrialProc,TwoBack,7,C,89,6,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,7,D,90,,Images/Instructions2Back.bmp
 1,TrialProc,TwoBack,7,T,91,,Images/Instructions2Back.bmp
-1,Rest,TwoBack,7,NA,NA,NA,Images/Instructions2Back.bmp
+1,Rest,TwoBack,7,NA,NA,,Images/Instructions2Back.bmp
 1,Introduction,ZeroBack,8,NA,NA,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,8,D,92,,Images/Instructions0Back.bmp
 1,TrialProc,ZeroBack,8,F,93,,Images/Instructions0Back.bmp
@@ -132,7 +132,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 2,TrialProc,ZeroBack,1,R,11,,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,1,C,12,6,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,1,Q,13,,Images/Instructions0Back.bmp
-2,Rest,ZeroBack,1,NA,NA,NA,Images/Instructions0Back.bmp
+2,Rest,ZeroBack,1,NA,NA,,Images/Instructions0Back.bmp
 2,Introduction,TwoBack,2,NA,NA,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,2,G,14,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,2,H,15,,Images/Instructions2Back.bmp
@@ -147,7 +147,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 2,TrialProc,TwoBack,2,Z,24,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,2,M,25,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,2,Z,26,6,Images/Instructions2Back.bmp
-2,Rest,TwoBack,2,NA,NA,NA,Images/Instructions2Back.bmp
+2,Rest,TwoBack,2,NA,NA,,Images/Instructions2Back.bmp
 2,Introduction,ZeroBack,3,NA,NA,6,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,3,C,27,6,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,3,S,28,,Images/Instructions0Back.bmp
@@ -162,7 +162,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 2,TrialProc,ZeroBack,3,J,37,,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,3,C,38,6,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,3,F,39,,Images/Instructions0Back.bmp
-2,Rest,ZeroBack,3,NA,NA,NA,Images/Instructions0Back.bmp
+2,Rest,ZeroBack,3,NA,NA,,Images/Instructions0Back.bmp
 2,Introduction,TwoBack,4,NA,NA,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,4,K,40,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,4,X,41,,Images/Instructions2Back.bmp
@@ -177,7 +177,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 2,TrialProc,TwoBack,4,T,50,6,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,4,C,51,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,4,Q,52,,Images/Instructions2Back.bmp
-2,Rest,TwoBack,4,NA,NA,NA,Images/Instructions2Back.bmp
+2,Rest,TwoBack,4,NA,NA,,Images/Instructions2Back.bmp
 2,Introduction,TwoBack,5,NA,NA,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,5,Q,53,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,5,C,54,,Images/Instructions2Back.bmp
@@ -192,7 +192,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 2,TrialProc,TwoBack,5,M,63,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,5,H,64,6,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,5,F,65,,Images/Instructions2Back.bmp
-2,Rest,TwoBack,5,NA,NA,NA,Images/Instructions2Back.bmp
+2,Rest,TwoBack,5,NA,NA,,Images/Instructions2Back.bmp
 2,Introduction,ZeroBack,6,NA,NA,,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,6,Z,66,,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,6,T,67,,Images/Instructions0Back.bmp
@@ -207,7 +207,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 2,TrialProc,ZeroBack,6,Q,76,,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,6,M,77,,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,6,C,78,6,Images/Instructions0Back.bmp
-2,Rest,ZeroBack,6,NA,NA,NA,Images/Instructions0Back.bmp
+2,Rest,ZeroBack,6,NA,NA,,Images/Instructions0Back.bmp
 2,Introduction,TwoBack,7,NA,NA,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,7,F,79,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,7,X,80,,Images/Instructions2Back.bmp
@@ -222,7 +222,7 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,IntroSlide
 2,TrialProc,TwoBack,7,C,89,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,7,R,90,,Images/Instructions2Back.bmp
 2,TrialProc,TwoBack,7,C,91,6,Images/Instructions2Back.bmp
-2,Rest,TwoBack,7,NA,NA,NA,Images/Instructions2Back.bmp
+2,Rest,TwoBack,7,NA,NA,,Images/Instructions2Back.bmp
 2,Introduction,ZeroBack,8,NA,NA,,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,8,H,92,,Images/Instructions0Back.bmp
 2,TrialProc,ZeroBack,8,T,93,,Images/Instructions0Back.bmp
