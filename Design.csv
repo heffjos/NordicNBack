@@ -116,12 +116,9 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,Duration
 2,twoback5,TwoBack,2,H,128,0,4
 2,twoback5,TwoBack,2,G,129,1,4
 2,twoback5,TwoBack,2,T,130,0,4
-2,twoback5,TwoBack,2,M,131,0,4
 2,twoback5,TwoBack,2,X,132,0,4
 2,twoback5,TwoBack,2,K,133,0,4
 2,twoback5,TwoBack,2,X,134,1,4
-2,twoback5,TwoBack,2,T,135,0,4
-2,twoback5,TwoBack,2,H,136,0,4
 2,twoback5,TwoBack,2,Z,137,0,4
 2,twoback5,TwoBack,2,M,138,0,4
 2,twoback5,TwoBack,2,Z,139,1,4
@@ -140,9 +137,6 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,Duration
 2,zeroback6,ZeroBack,3,C,152,1,4
 2,zeroback6,ZeroBack,3,F,153,0,4
 2,rest,Rest,NA,NA,154,NA,8
-2,twoback6,TwoBack,4,K,155,0,4
-2,twoback6,TwoBack,4,X,156,0,4
-2,twoback6,TwoBack,4,J,157,0,4
 2,twoback6,TwoBack,4,R,158,0,4
 2,twoback6,TwoBack,4,S,159,0,4
 2,twoback6,TwoBack,4,G,160,0,4
@@ -154,7 +148,6 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,Duration
 2,twoback6,TwoBack,4,C,166,0,4
 2,twoback6,TwoBack,4,Q,167,0,4
 2,rest,Rest,NA,NA,168,NA,8
-2,twoback7,TwoBack,5,Q,169,0,4
 2,twoback7,TwoBack,5,C,170,0,4
 2,twoback7,TwoBack,5,X,171,0,4
 2,twoback7,TwoBack,5,R,172,0,4
@@ -162,11 +155,9 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,Duration
 2,twoback7,TwoBack,5,J,174,0,4
 2,twoback7,TwoBack,5,B,175,0,4
 2,twoback7,TwoBack,5,J,176,1,4
-2,twoback7,TwoBack,5,X,177,0,4
 2,twoback7,TwoBack,5,H,178,0,4
 2,twoback7,TwoBack,5,M,179,0,4
 2,twoback7,TwoBack,5,H,180,1,4
-2,twoback7,TwoBack,5,F,181,0,4
 2,rest,Rest,NA,NA,182,NA,8
 2,zeroback7,ZeroBack,6,Z,183,0,4
 2,zeroback7,ZeroBack,6,T,184,0,4
@@ -188,13 +179,10 @@ Run,Proc,Trial,Block,Letter,TrialNum,Respond,Duration
 2,twoback8,TwoBack,7,C,200,0,4
 2,twoback8,TwoBack,7,Q,201,0,4
 2,twoback8,TwoBack,7,C,202,1,4
-2,twoback8,TwoBack,7,M,203,0,4
 2,twoback8,TwoBack,7,V,204,0,4
 2,twoback8,TwoBack,7,Z,205,0,4
 2,twoback8,TwoBack,7,V,206,1,4
 2,twoback8,TwoBack,7,C,207,0,4
-2,twoback8,TwoBack,7,R,208,0,4
-2,twoback8,TwoBack,7,C,209,1,4
 2,rest,Rest,NA,NA,210,NA,8
 2,zeroback8,ZeroBack,8,H,211,0,4
 2,zeroback8,ZeroBack,8,T,212,0,4
