@@ -17,6 +17,7 @@ AddIntro <- function(df) {
   df <- rbind(df[1, ], df)
   df$Proc[1] <- "Introduction"
   df$Letter[1] <- NA
+  df$Respond[1] <- 0
   df
 }
   
