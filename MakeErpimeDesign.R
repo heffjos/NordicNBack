@@ -41,7 +41,7 @@ data <- data %>%
 
 data <- data %>%
   select(-Duration) %>%
-  mutate(Respond=ifelse(Respond == 1, "6", "")) %>%
+  mutate(Respond=ifelse(Respond == 1, "c", "")) %>%
   mutate(Respond=ifelse(is.na(Respond), "", Respond))
 
 write.csv(data, file="EprimeDesign.csv", row.names=F, quote=F)
