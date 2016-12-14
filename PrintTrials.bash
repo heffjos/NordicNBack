@@ -61,6 +61,13 @@ echo "        </show>"
 echo "    </Trial>"
 echo
 
+# create goodbye trial
+echo "    <Trial>"
+echo "        <name>GoodybyeTrial</name>"
+echo "        <show>"
+echo "            <item>Goodbye</item>"
+echo "        </show>"
+echo "    </Trial>"
 
 for oneLetter in G K F C B M Q X V R S T H J Z D
 do
