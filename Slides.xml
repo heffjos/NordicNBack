@@ -55,6 +55,14 @@
     </Slide>
 
     <Slide>
+        <name>Goodbye</name>
+        <text>Goodbye.</text>
+        <font>Arial</font>
+        <fontsize>24</fontsize>
+        <duration>1000</duration>
+    </Slide>
+
+    <Slide>
         <name>Letter_G</name>
         <text>G</text>
         <font>Arial</font>
