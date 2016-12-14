@@ -51,6 +51,12 @@
     </Trial>
 
     <Trial>
+        <name>GoodybyeTrial</name>
+        <show>
+            <item>Goodbye</item>
+        </show>
+    </Trial>
+    <Trial>
         <name>ZeroBack_G</name>
         <condition>1</condition>
         <show>
