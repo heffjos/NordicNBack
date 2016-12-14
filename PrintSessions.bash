@@ -35,5 +35,8 @@ do
     fi
 done
 
+# finish with goodbye slide
+echo "        <runtrial>GoodybyeTrial</runtrial>"
+
 echo "    </Session>"
 echo "</IncludeSessions>"
